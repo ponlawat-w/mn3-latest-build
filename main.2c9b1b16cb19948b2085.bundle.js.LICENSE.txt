@@ -1,0 +1,363 @@
+/*! ModuleConcatenation bailout: Cannot concat with ../../node_modules/@material-ui/core/esm/CircularProgress/CircularProgress.js: Module ../../node_modules/@material-ui/core/esm/CircularProgress/CircularProgress.js is not in the same chunk(s) (expected in chunk(s) main, module is in chunk(s) vendors) */
+
+/*! ModuleConcatenation bailout: Cannot concat with ../../node_modules/@material-ui/icons/esm/Edit.js: Module ../../node_modules/@material-ui/icons/esm/Edit.js is not in the same chunk(s) (expected in chunk(s) main, module is in chunk(s) vendors) */
+
+/*! ModuleConcatenation bailout: Cannot concat with ../../node_modules/@material-ui/icons/esm/Save.js: Module ../../node_modules/@material-ui/icons/esm/Save.js is not in the same chunk(s) (expected in chunk(s) main, module is in chunk(s) vendors) */
+
+/*! ModuleConcatenation bailout: Cannot concat with ../component-library/node_modules/@material-ui/icons/esm/Cached.js: Module ../component-library/node_modules/@material-ui/icons/esm/Cached.js is not in the same chunk(s) (expected in chunk(s) main, module is in chunk(s) vendors) */
+
+/*! ModuleConcatenation bailout: Cannot concat with ../component-library/node_modules/@material-ui/icons/esm/CheckCircleOutlineOutlined.js: Module ../component-library/node_modules/@material-ui/icons/esm/CheckCircleOutlineOutlined.js is not in the same chunk(s) (expected in chunk(s) main, module is in chunk(s) vendors) */
+
+/*! ModuleConcatenation bailout: Cannot concat with ../component-library/node_modules/@material-ui/icons/esm/CloseRounded.js: Module ../component-library/node_modules/@material-ui/icons/esm/CloseRounded.js is not in the same chunk(s) (expected in chunk(s) main, module is in chunk(s) vendors) */
+
+/*! ModuleConcatenation bailout: Cannot concat with ../component-library/node_modules/@material-ui/icons/esm/DeleteOutline.js: Module ../component-library/node_modules/@material-ui/icons/esm/DeleteOutline.js is not in the same chunk(s) (expected in chunk(s) main, module is in chunk(s) vendors) */
+
+/*! ModuleConcatenation bailout: Cannot concat with ../component-library/node_modules/@material-ui/icons/esm/Edit.js: Module ../component-library/node_modules/@material-ui/icons/esm/Edit.js is not in the same chunk(s) (expected in chunk(s) main, module is in chunk(s) vendors) */
+
+/*! ModuleConcatenation bailout: Cannot concat with ../component-library/node_modules/@material-ui/icons/esm/ErrorOutline.js: Module ../component-library/node_modules/@material-ui/icons/esm/ErrorOutline.js is not in the same chunk(s) (expected in chunk(s) main, module is in chunk(s) vendors) */
+
+/*! ModuleConcatenation bailout: Cannot concat with ../component-library/node_modules/@material-ui/icons/esm/InfoOutlined.js: Module ../component-library/node_modules/@material-ui/icons/esm/InfoOutlined.js is not in the same chunk(s) (expected in chunk(s) main, module is in chunk(s) vendors) */
+
+/*! ModuleConcatenation bailout: Cannot concat with ../component-library/node_modules/@material-ui/icons/esm/ReportProblemOutlined.js: Module ../component-library/node_modules/@material-ui/icons/esm/ReportProblemOutlined.js is not in the same chunk(s) (expected in chunk(s) main, module is in chunk(s) vendors) */
+
+/*! ModuleConcatenation bailout: Cannot concat with ../extensions-manager/node_modules/@mui/icons-material/esm/ArrowBackIosNew.js: Module ../extensions-manager/node_modules/@mui/icons-material/esm/ArrowBackIosNew.js is not in the same chunk(s) (expected in chunk(s) main, module is in chunk(s) vendors) */
+
+/*! ModuleConcatenation bailout: Cannot concat with ../extensions-manager/node_modules/@mui/icons-material/esm/KeyboardArrowLeftRounded.js: Module ../extensions-manager/node_modules/@mui/icons-material/esm/KeyboardArrowLeftRounded.js is not in the same chunk(s) (expected in chunk(s) main, module is in chunk(s) vendors) */
+
+/*! ModuleConcatenation bailout: Cannot concat with ../extensions-manager/node_modules/@mui/icons-material/esm/KeyboardArrowUpRounded.js: Module ../extensions-manager/node_modules/@mui/icons-material/esm/KeyboardArrowUpRounded.js is not in the same chunk(s) (expected in chunk(s) main, module is in chunk(s) vendors) */
+
+/*! ModuleConcatenation bailout: Cannot concat with ../extensions-manager/node_modules/formik/dist/formik.esm.js: Module ../extensions-manager/node_modules/formik/dist/formik.esm.js is not in the same chunk(s) (expected in chunk(s) main, module is in chunk(s) ) */
+
+/*! ModuleConcatenation bailout: Cannot concat with ../extensions-manager/node_modules/react-markdown/lib/react-markdown.js: Module ../extensions-manager/node_modules/react-markdown/lib/react-markdown.js is not in the same chunk(s) (expected in chunk(s) main, module is in chunk(s) ) */
+
+/*! ModuleConcatenation bailout: Cannot concat with ../extensions-manager/node_modules/react-syntax-highlighter/dist/esm/default-highlight.js: Module ../extensions-manager/node_modules/react-syntax-highlighter/dist/esm/default-highlight.js is not in the same chunk(s) (expected in chunk(s) main, module is in chunk(s) ) */
+
+/*! ModuleConcatenation bailout: Cannot concat with ../extensions-manager/node_modules/rehype-raw/index.js: Module ../extensions-manager/node_modules/rehype-raw/index.js is not in the same chunk(s) (expected in chunk(s) main, module is in chunk(s) ) */
+
+/*! ModuleConcatenation bailout: Cannot concat with ../simple-email-auth/node_modules/formik/dist/formik.esm.js: Module ../simple-email-auth/node_modules/formik/dist/formik.esm.js is not in the same chunk(s) (expected in chunk(s) main, module is in chunk(s) ) */
+
+/*! ModuleConcatenation bailout: Cannot concat with ../web-user/node_modules/formik/dist/formik.esm.js: Module ../web-user/node_modules/formik/dist/formik.esm.js is not in the same chunk(s) (expected in chunk(s) main, module is in chunk(s) ) */
+
+/*! ModuleConcatenation bailout: Cannot concat with ../web-user/node_modules/yup/es/index.js: Module ../web-user/node_modules/yup/es/index.js is not in the same chunk(s) (expected in chunk(s) main, module is in chunk(s) ) */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/@material-ui/icons/esm/CallMade.js: Module ./node_modules/@material-ui/icons/esm/CallMade.js is not in the same chunk(s) (expected in chunk(s) main, module is in chunk(s) vendors) */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/@material-ui/icons/esm/LibraryAdd.js: Module ./node_modules/@material-ui/icons/esm/LibraryAdd.js is not in the same chunk(s) (expected in chunk(s) main, module is in chunk(s) vendors) */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/@material-ui/icons/esm/NoteAdd.js: Module ./node_modules/@material-ui/icons/esm/NoteAdd.js is not in the same chunk(s) (expected in chunk(s) main, module is in chunk(s) vendors) */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/@material-ui/icons/esm/Settings.js: Module ./node_modules/@material-ui/icons/esm/Settings.js is not in the same chunk(s) (expected in chunk(s) main, module is in chunk(s) vendors) */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../component-library/dist/webapp/ui/components/atoms/Card/Card.scss: Module uses module.id */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../component-library/dist/webapp/ui/components/atoms/Colorpicker/Colorpicker.scss: Module uses module.id */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../component-library/dist/webapp/ui/components/atoms/FileUploader/FileUploader.scss: Module uses module.id */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../component-library/dist/webapp/ui/components/atoms/FloatingMenu/FloatingMenu.scss: Module uses module.id */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../component-library/dist/webapp/ui/components/atoms/InputTextField/InputTextField.scss: Module uses module.id */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../component-library/dist/webapp/ui/components/atoms/Loading/Loading.scss: Module uses module.id */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../component-library/dist/webapp/ui/components/atoms/Modal/Modal.scss: Module uses module.id */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../component-library/dist/webapp/ui/components/atoms/PrimaryButton/PrimaryButton.scss: Module uses module.id */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../component-library/dist/webapp/ui/components/atoms/RoundButton/RoundButton.scss: Module uses module.id */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../component-library/dist/webapp/ui/components/atoms/Searchbox/Searchbox.scss: Module uses module.id */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../component-library/dist/webapp/ui/components/atoms/SecondaryButton/SecondaryButton.scss: Module uses module.id */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../component-library/dist/webapp/ui/components/atoms/Snackbar/Snackbar.scss: Module uses module.id */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../component-library/dist/webapp/ui/components/atoms/Snackbar/SnackbarStack.scss: Module uses module.id */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../component-library/dist/webapp/ui/components/atoms/Switch/Switch.scss: Module uses module.id */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../component-library/dist/webapp/ui/components/atoms/TertiaryButton/TertiaryButton.scss: Module uses module.id */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../component-library/dist/webapp/ui/components/molecules/cards/ListCard/ListCard.scss: Module uses module.id */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../component-library/dist/webapp/ui/components/molecules/modals/ReportModal/ReportModal.scss: Module uses module.id */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../component-library/dist/webapp/ui/components/organisms/Footer/Footer.scss: Module uses module.id */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../component-library/dist/webapp/ui/components/organisms/Header/Minimalistic/MinimalisticHeader.scss: Module uses module.id */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../component-library/dist/webapp/ui/components/organisms/Header/Standard/Header.scss: Module uses module.id */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../extensions-manager/dist/webapp/components/organisms/ExtensionsList/ExtensionsList.scss: Module uses module.id */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../extensions-manager/dist/webapp/components/pages/ExtensionInfo/ExtensionInfo.scss: Module uses module.id */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../extensions-manager/dist/webapp/components/pages/Extensions/Extensions.scss: Module uses module.id */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../extensions-manager/dist/webapp/components/pages/InstallExtension/InstallExtension.scss: Module uses module.id */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../extensions-manager/dist/webapp/components/pages/ManageExtensions/ManageExtensions.scss: Module uses module.id */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../simple-email-auth/dist/webapp/Signup.scss: Module uses module.id */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../web-user/dist/webapp/components/organisms/ProfileCard/ProfileCard.scss: Module uses module.id */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../web-user/dist/webapp/components/pages/Profile/Profile.scss: Module uses module.id */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./dist/webapp/ui/components/atoms/HeaderTitle/HeaderTitle.scss: Module uses module.id */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./dist/webapp/ui/components/layout/MainLayout/MainLayout.scss: Module uses module.id */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./dist/webapp/ui/components/layout/PageLayout.scss: Module uses module.id */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./dist/webapp/ui/components/layout/SimpleLayout/SimpleLayout.scss: Module uses module.id */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./dist/webapp/ui/components/molecules/OverallCard/OverallCard.scss: Module uses module.id */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./dist/webapp/ui/components/organisms/Footer/MainFooter/MainFooter.scss: Module uses module.id */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./dist/webapp/ui/components/organisms/Header/MainHeader/MainHeader.scss: Module uses module.id */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./dist/webapp/ui/components/organisms/Header/Minimalistic/MinimalisticHeader.scss: Module uses module.id */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./dist/webapp/ui/components/pages/Access/Login/Login.scss: Module uses module.id */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./dist/webapp/ui/components/pages/Access/RootLogin/RootLogin.scss: Module uses module.id */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./dist/webapp/ui/components/pages/Access/Signup/Signup.scss: Module uses module.id */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./dist/webapp/ui/components/pages/Landing/Landing.scss: Module uses module.id */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./dist/webapp/ui/components/pages/Settings/Advanced/Advanced.scss: Module uses module.id */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./dist/webapp/ui/components/pages/Settings/Appearance/Appearance.scss: Module uses module.id */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./dist/webapp/ui/components/pages/Settings/General/General.scss: Module uses module.id */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./dist/webapp/ui/components/pages/Settings/Settings/Settings.scss: Module uses module.id */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./dist/webapp/ui/components/pages/Settings/Users/Users.scss: Module uses module.id */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/formik/dist/formik.esm.js: Module ./node_modules/formik/dist/formik.esm.js is not in the same chunk(s) (expected in chunk(s) main, module is in chunk(s) ) */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/js-cookie/dist/js.cookie.mjs: Module ./node_modules/js-cookie/dist/js.cookie.mjs is not in the same chunk(s) (expected in chunk(s) main, module is in chunk(s) vendors) */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/react-dom/client.js: Module is not an ECMAScript module */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/react-dom/index.js: Module is not an ECMAScript module */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/react-router-dom/dist/index.js: Module ./node_modules/react-router-dom/dist/index.js is not in the same chunk(s) (expected in chunk(s) main, module is in chunk(s) vendors) */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/react-router/dist/index.js: Module ./node_modules/react-router/dist/index.js is not in the same chunk(s) (expected in chunk(s) main, module is in chunk(s) vendors) */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/react/index.js: Module is not an ECMAScript module */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/react/jsx-runtime.js: Module is not an ECMAScript module */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js: Module is not an ECMAScript module */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/style-loader/dist/runtime/insertBySelector.js: Module is not an ECMAScript module */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/style-loader/dist/runtime/insertStyleElement.js: Module is not an ECMAScript module */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/style-loader/dist/runtime/setAttributesWithoutAttributes.js: Module is not an ECMAScript module */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/style-loader/dist/runtime/styleDomAPI.js: Module is not an ECMAScript module */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/style-loader/dist/runtime/styleTagTransform.js: Module is not an ECMAScript module */
+
+/*! ModuleConcatenation bailout: Module uses module.id */
+
+/*! Statement (VariableDeclaration) with side effects in source code at 4:0-97 */
+
+/*! export default [provided] [used in runtime] [renamed to Z] */
+
+/*! namespace exports */
+
+/*! runtime requirements: __webpack_require__, __webpack_require__.n, __webpack_exports__, module.id, __webpack_require__.d, __webpack_require__.*, module */
+
+/*! runtime requirements: __webpack_require__, __webpack_require__.n, __webpack_require__.p, __webpack_require__.* */
+
+/*!********************************************!*\
+  !*** ./dist/webapp/index.js + 186 modules ***!
+  \********************************************/
+
+/*!*********************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../simple-email-auth/dist/webapp/Signup.scss ***!
+  \*********************************************************************************************************************************/
+
+/*!***************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./dist/webapp/ui/components/layout/PageLayout.scss ***!
+  \***************************************************************************************************************************************/
+
+/*!*******************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./dist/webapp/ui/components/pages/Landing/Landing.scss ***!
+  \*******************************************************************************************************************************************/
+
+/*!**********************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./dist/webapp/ui/components/pages/Access/Login/Login.scss ***!
+  \**********************************************************************************************************************************************/
+
+/*!************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./dist/webapp/ui/components/pages/Access/Signup/Signup.scss ***!
+  \************************************************************************************************************************************************/
+
+/*!************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./dist/webapp/ui/components/pages/Settings/Users/Users.scss ***!
+  \************************************************************************************************************************************************/
+
+/*!**************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../web-user/dist/webapp/components/pages/Profile/Profile.scss ***!
+  \**************************************************************************************************************************************************/
+
+/*!**************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./dist/webapp/ui/components/layout/MainLayout/MainLayout.scss ***!
+  \**************************************************************************************************************************************************/
+
+/*!***************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./dist/webapp/ui/components/atoms/HeaderTitle/HeaderTitle.scss ***!
+  \***************************************************************************************************************************************************/
+
+/*!****************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./dist/webapp/ui/components/pages/Settings/General/General.scss ***!
+  \****************************************************************************************************************************************************/
+
+/*!******************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./dist/webapp/ui/components/layout/SimpleLayout/SimpleLayout.scss ***!
+  \******************************************************************************************************************************************************/
+
+/*!******************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./dist/webapp/ui/components/pages/Access/RootLogin/RootLogin.scss ***!
+  \******************************************************************************************************************************************************/
+
+/*!******************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./dist/webapp/ui/components/pages/Settings/Advanced/Advanced.scss ***!
+  \******************************************************************************************************************************************************/
+
+/*!******************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./dist/webapp/ui/components/pages/Settings/Settings/Settings.scss ***!
+  \******************************************************************************************************************************************************/
+
+/*!*******************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./dist/webapp/ui/components/molecules/OverallCard/OverallCard.scss ***!
+  \*******************************************************************************************************************************************************/
+
+/*!********************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../component-library/dist/webapp/ui/components/atoms/Card/Card.scss ***!
+  \********************************************************************************************************************************************************/
+
+/*!**********************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../component-library/dist/webapp/ui/components/atoms/Modal/Modal.scss ***!
+  \**********************************************************************************************************************************************************/
+
+/*!**********************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./dist/webapp/ui/components/pages/Settings/Appearance/Appearance.scss ***!
+  \**********************************************************************************************************************************************************/
+
+/*!************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../component-library/dist/webapp/ui/components/atoms/Switch/Switch.scss ***!
+  \************************************************************************************************************************************************************/
+
+/*!************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./dist/webapp/ui/components/organisms/Footer/MainFooter/MainFooter.scss ***!
+  \************************************************************************************************************************************************************/
+
+/*!************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./dist/webapp/ui/components/organisms/Header/MainHeader/MainHeader.scss ***!
+  \************************************************************************************************************************************************************/
+
+/*!**************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../component-library/dist/webapp/ui/components/atoms/Loading/Loading.scss ***!
+  \**************************************************************************************************************************************************************/
+
+/*!**************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../web-user/dist/webapp/components/organisms/ProfileCard/ProfileCard.scss ***!
+  \**************************************************************************************************************************************************************/
+
+/*!****************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../component-library/dist/webapp/ui/components/atoms/Snackbar/Snackbar.scss ***!
+  \****************************************************************************************************************************************************************/
+
+/*!****************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../component-library/dist/webapp/ui/components/organisms/Footer/Footer.scss ***!
+  \****************************************************************************************************************************************************************/
+
+/*!******************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../component-library/dist/webapp/ui/components/atoms/Searchbox/Searchbox.scss ***!
+  \******************************************************************************************************************************************************************/
+
+/*!******************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../extensions-manager/dist/webapp/components/pages/Extensions/Extensions.scss ***!
+  \******************************************************************************************************************************************************************/
+
+/*!*********************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../component-library/dist/webapp/ui/components/atoms/Snackbar/SnackbarStack.scss ***!
+  \*********************************************************************************************************************************************************************/
+
+/*!**********************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../component-library/dist/webapp/ui/components/atoms/Colorpicker/Colorpicker.scss ***!
+  \**********************************************************************************************************************************************************************/
+
+/*!**********************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../component-library/dist/webapp/ui/components/atoms/RoundButton/RoundButton.scss ***!
+  \**********************************************************************************************************************************************************************/
+
+/*!**********************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./dist/webapp/ui/components/organisms/Header/Minimalistic/MinimalisticHeader.scss ***!
+  \**********************************************************************************************************************************************************************/
+
+/*!************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../component-library/dist/webapp/ui/components/atoms/FileUploader/FileUploader.scss ***!
+  \************************************************************************************************************************************************************************/
+
+/*!************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../component-library/dist/webapp/ui/components/atoms/FloatingMenu/FloatingMenu.scss ***!
+  \************************************************************************************************************************************************************************/
+
+/*!************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../extensions-manager/dist/webapp/components/pages/ExtensionInfo/ExtensionInfo.scss ***!
+  \************************************************************************************************************************************************************************/
+
+/*!*************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../component-library/dist/webapp/ui/components/organisms/Header/Standard/Header.scss ***!
+  \*************************************************************************************************************************************************************************/
+
+/*!**************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../component-library/dist/webapp/ui/components/atoms/PrimaryButton/PrimaryButton.scss ***!
+  \**************************************************************************************************************************************************************************/
+
+/*!**************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../component-library/dist/webapp/ui/components/molecules/cards/ListCard/ListCard.scss ***!
+  \**************************************************************************************************************************************************************************/
+
+/*!****************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../component-library/dist/webapp/ui/components/atoms/InputTextField/InputTextField.scss ***!
+  \****************************************************************************************************************************************************************************/
+
+/*!****************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../component-library/dist/webapp/ui/components/atoms/TertiaryButton/TertiaryButton.scss ***!
+  \****************************************************************************************************************************************************************************/
+
+/*!******************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../component-library/dist/webapp/ui/components/atoms/SecondaryButton/SecondaryButton.scss ***!
+  \******************************************************************************************************************************************************************************/
+
+/*!******************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../extensions-manager/dist/webapp/components/organisms/ExtensionsList/ExtensionsList.scss ***!
+  \******************************************************************************************************************************************************************************/
+
+/*!******************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../extensions-manager/dist/webapp/components/pages/InstallExtension/InstallExtension.scss ***!
+  \******************************************************************************************************************************************************************************/
+
+/*!******************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../extensions-manager/dist/webapp/components/pages/ManageExtensions/ManageExtensions.scss ***!
+  \******************************************************************************************************************************************************************************/
+
+/*!*********************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../component-library/dist/webapp/ui/components/molecules/modals/ReportModal/ReportModal.scss ***!
+  \*********************************************************************************************************************************************************************************/
+
+/*!*****************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!../component-library/dist/webapp/ui/components/organisms/Header/Minimalistic/MinimalisticHeader.scss ***!
+  \*****************************************************************************************************************************************************************************************/
